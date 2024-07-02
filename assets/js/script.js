@@ -56,6 +56,7 @@ for(let dpto of propiedades_venta){
                 <p class="text-success">
                 <i class="fas fa-paw"></i> Mascotas permitidas</p>
             </div>
+            </div>
         </div>
     `
 }
